@@ -1,0 +1,11 @@
+{
+  "name": "fibonacci-numbers",
+  "version": "1.0.0",
+  "description": "Фибоначчи — это последовательность чисел, в которой первые два числа равны 0 и 1, а каждое последующее число равно сумме двух предыдущих чисел. Последовательность начинается так: 0, 1, 1, 2, 3, 5, 8, 13, ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Polina Yausheva",
+  "license": "ISC"
+}
